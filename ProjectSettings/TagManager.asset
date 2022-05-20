@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - noreflect
+  - two
+  - four
+  - eight
+  - sixteen
+  - thirtytwo
+  - sixtyfour
+  - onetwoeight
+  - twofivesix
+  - fiveonetwo
+  - tentwofour
+  - twozerofoureight
+  - failline
+  - playerhandle
+  - normalsphere
+  - hitboundary
+  - boundary
+  - platform
+  - smoke
+  - bomb
+  - colorball
+  - nadeexplosion
+  - destroyball
+  - colorballeffect
+  - 2048
+  - 4096
+  - 8192
+  - 16384
+  - 32768
+  - 65536
+  - 131072
+  - 262144
+  - 524288
+  - 10485776
+  - 2097152
+  - 4194304
+  - 8388608
+  - text
+  - purpleshockwave
+  - greenshockwave
+  - orangeshockwave
+  - violetshockwave
+  - redshockwave
+  - yellowshockwave
+  - pinkshockwave
+  - blueshockwave
+  - blueshockwavewhite
+  - pointtext
+  - aim
+  - fail
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 2972578189
+    locked: 0
